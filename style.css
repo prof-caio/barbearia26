@@ -1,0 +1,18 @@
+h1{
+    color: rgb(166, 0, 255);
+    background-color: aqua;
+}
+body{
+    background-image: url("giphy.gif");
+    /*background-color: orange;*/
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(4, 233, 241);
+}
